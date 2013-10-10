@@ -1,0 +1,292 @@
+{
+   "_response_info":{
+      "rooms_loaded":"11",
+      "status":"ok",
+      "total_rooms":"11"
+   },
+   "rooms":{
+      "301":{
+         "events":[
+            {
+               "name":"Tamara Bruck - visit",
+               "creator":"",
+               "start_at":"2013-10-11T01:30:00-07:00",
+               "end_at":"2013-10-11T02:00:00-07:00"
+            },
+            {
+               "name":"Room bkg",
+               "creator":"",
+               "start_at":"2013-10-11T02:00:00-07:00",
+               "end_at":"2013-10-11T03:30:00-07:00"
+            },
+            {
+               "name":"Rob & Anjum: Capability review",
+               "creator":"",
+               "start_at":"2013-10-11T03:30:00-07:00",
+               "end_at":"2013-10-11T05:00:00-07:00"
+            },
+            {
+               "name":"Rob to phone Lace re. SCS digital awareness",
+               "creator":"",
+               "start_at":"2013-10-11T06:00:00-07:00",
+               "end_at":"2013-10-11T06:30:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "303":{
+         "events":[
+            {
+               "name":"WebOps Code Sharing",
+               "creator":"",
+               "start_at":"2013-10-11T02:30:00-07:00",
+               "end_at":"2013-10-11T03:30:00-07:00"
+            },
+            {
+               "name":"Cabinet Video - urgent feedback needed",
+               "creator":"Alexandra Bobbe",
+               "start_at":"2013-10-11T04:30:00-07:00",
+               "end_at":"2013-10-11T05:30:00-07:00"
+            },
+            {
+               "name":"One to one",
+               "creator":"David Morgantini",
+               "start_at":"2013-10-11T06:00:00-07:00",
+               "end_at":"2013-10-11T06:15:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "304":{
+         "events":[
+            {
+               "name":"Prioritised changes to sign-on platform",
+               "creator":"",
+               "start_at":"2013-10-11T03:00:00-07:00",
+               "end_at":"2013-10-11T04:00:00-07:00"
+            },
+            {
+               "name":"TW Catchup on DWP Single Tier",
+               "creator":"Simon Brunning",
+               "start_at":"2013-10-11T05:10:00-07:00",
+               "end_at":"2013-10-11T06:10:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "305":{
+         "events":[
+            {
+               "name":"Glenn Archer (Australian Gov CIO) visit to Cabinet Office - Michael Brennan slot",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T02:30:00-07:00",
+               "end_at":"2013-10-11T03:00:00-07:00"
+            },
+            {
+               "name":"Glenn Archer (Australian Gov CIO) visit",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T03:00:00-07:00",
+               "end_at":"2013-10-11T04:00:00-07:00"
+            },
+            {
+               "name":"Glenn Archer (Australian Gov CIO) visit",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T04:00:00-07:00",
+               "end_at":"2013-10-11T05:00:00-07:00"
+            },
+            {
+               "name":"Glenn Archer (Australian Gov CIO) visit to GDS",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T05:00:00-07:00",
+               "end_at":"2013-10-11T06:00:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "306":{
+         "events":[
+            {
+               "name":"stacey",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T01:00:00-07:00",
+               "end_at":"2013-10-11T02:00:00-07:00"
+            },
+            {
+               "name":"Code Quality Session",
+               "creator":"David Morgantini",
+               "start_at":"2013-10-11T02:15:00-07:00",
+               "end_at":"2013-10-11T03:15:00-07:00"
+            },
+            {
+               "name":"stacey",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T03:30:00-07:00",
+               "end_at":"2013-10-11T04:30:00-07:00"
+            },
+            {
+               "name":"stacey",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T04:30:00-07:00",
+               "end_at":"2013-10-11T05:30:00-07:00"
+            },
+            {
+               "name":"ONS to talk Places data",
+               "creator":"Pete Herlihy",
+               "start_at":"2013-10-11T06:30:00-07:00",
+               "end_at":"2013-10-11T07:20:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "307":{
+         "events":[
+            {
+               "name":"Drafting Governance Principles Workshop ",
+               "creator":"Mona Al-Haery",
+               "start_at":"2013-10-11T02:00:00-07:00",
+               "end_at":"2013-10-11T09:00:00-07:00"
+            }
+         ],
+         "available":true
+      },
+      "603":{
+         "events":[
+            {
+               "name":"Infra & Tools Retrospective - recurring invite",
+               "creator":"Clare Barker",
+               "start_at":"2013-10-11T10:00:00+01:00",
+               "end_at":"2013-10-11T11:00:00+01:00"
+            },
+            {
+               "name":"Design team meeting",
+               "creator":"Alexandra Bobbe",
+               "start_at":"2013-10-11T11:30:00+01:00",
+               "end_at":"2013-10-11T12:30:00+01:00"
+            },
+            {
+               "name":"Digital by Default Service Assessment",
+               "creator":"Mark McLeod",
+               "start_at":"2013-10-11T13:00:00+01:00",
+               "end_at":"2013-10-11T15:30:00+01:00"
+            }
+         ],
+         "available":true
+      },
+      "708":{
+         "events":[
+            {
+               "name":"IdP onboarding/ Daily contract discussion",
+               "creator":"Claire Bowman",
+               "start_at":"2013-10-11T09:30:00+01:00",
+               "end_at":"2013-10-11T10:00:00+01:00"
+            },
+            {
+               "name":"stacey",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T10:00:00+01:00",
+               "end_at":"2013-10-11T11:00:00+01:00"
+            },
+            {
+               "name":"Catch up on content for Digital Services framework",
+               "creator":"",
+               "start_at":"2013-10-11T11:00:00+01:00",
+               "end_at":"2013-10-11T12:00:00+01:00"
+            },
+            {
+               "name":"Andrew Anderson - IDAP - Conference Call (Room 708)",
+               "creator":"Sandra Beazley",
+               "start_at":"2013-10-11T12:00:00+01:00",
+               "end_at":"2013-10-11T13:00:00+01:00"
+            },
+            {
+               "name":"Document Checking Service weekly meeting",
+               "creator":"Claire Bowman",
+               "start_at":"2013-10-11T14:00:00+01:00",
+               "end_at":"2013-10-11T15:00:00+01:00"
+            },
+            {
+               "name":"Alex / Shan 1:1",
+               "creator":"Shan Rahulan",
+               "start_at":"2013-10-11T15:00:00+01:00",
+               "end_at":"2013-10-11T16:00:00+01:00"
+            }
+         ],
+         "available":true
+      },
+      "709":{
+         "events":[
+            {
+               "name":"PMO Catch Up",
+               "creator":"Sandra Beazley",
+               "start_at":"2013-10-11T11:00:00+01:00",
+               "end_at":"2013-10-11T11:30:00+01:00"
+            },
+            {
+               "name":"Go though content changes",
+               "creator":"Sally Meecham",
+               "start_at":"2013-10-11T13:30:00+01:00",
+               "end_at":"2013-10-11T14:30:00+01:00"
+            },
+            {
+               "name":"Rob to phone Lace re. SCS digital awareness",
+               "creator":"",
+               "start_at":"2013-10-11T14:00:00+01:00",
+               "end_at":"2013-10-11T14:30:00+01:00"
+            },
+            {
+               "name":"Service managers workshops planning",
+               "creator":"Lisa Scott",
+               "start_at":"2013-10-11T14:00:00+01:00",
+               "end_at":"2013-10-11T17:00:00+01:00"
+            }
+         ],
+         "available":true
+      },
+      "710":{
+         "events":[
+            {
+               "name":"Catch-up SR & Roo",
+               "creator":"Sarah Richards",
+               "start_at":"2013-10-11T10:00:00+01:00",
+               "end_at":"2013-10-11T11:00:00+01:00"
+            },
+            {
+               "name":"Lana & SR catch-up",
+               "creator":"Sarah Richards",
+               "start_at":"2013-10-11T12:00:00+01:00",
+               "end_at":"2013-10-11T12:30:00+01:00"
+            },
+            {
+               "name":"Go though content changes",
+               "creator":"Sally Meecham",
+               "start_at":"2013-10-11T13:30:00+01:00",
+               "end_at":"2013-10-11T14:30:00+01:00"
+            },
+            {
+               "name":"Elizabeth Bull",
+               "creator":"Claire Bowman",
+               "start_at":"2013-10-11T15:30:00+01:00",
+               "end_at":"2013-10-11T16:30:00+01:00"
+            }
+         ],
+         "available":true
+      },
+      "712":{
+         "events":[
+            {
+               "name":"Australia visit",
+               "creator":"Stacey Phillips",
+               "start_at":"2013-10-11T09:00:00+01:00",
+               "end_at":"2013-10-11T13:00:00+01:00"
+            },
+            {
+               "name":"GDS Network discussions",
+               "creator":"Richard Thomas",
+               "start_at":"2013-10-11T14:00:00+01:00",
+               "end_at":"2013-10-11T15:00:00+01:00"
+            }
+         ],
+         "available":true
+      }
+   }
+}
